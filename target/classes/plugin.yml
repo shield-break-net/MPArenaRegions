@@ -1,0 +1,4 @@
+name: ArenaRegions
+version: '1.0-SNAPSHOT'
+main: net.shieldbreak.arenaregions.Main
+api-version: '1.19'

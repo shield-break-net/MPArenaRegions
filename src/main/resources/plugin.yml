@@ -1,0 +1,4 @@
+name: ArenaRegions
+version: '${project.version}'
+main: net.shieldbreak.arenaregions.Main
+api-version: '1.19'
